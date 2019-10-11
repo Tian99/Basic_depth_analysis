@@ -1,11 +1,6 @@
-def disparity_ncorr(L, R):
-    """Compute disparity map D(y, x) such that: L(y, x) = R(y, x + D(y, x))
-    
-    Params:
-    L: Grayscale left image
-    R: Grayscale right image, same size as L
+__import__('4a')
 
-    Returns: Disparity map, same size as L, R
-    """
+    #######################
+    #code stored in a4_SSD, you could just directly run 4a,py, or run this file.(Remeber to change the file names in 4a.py)
+    #######################
 
-    # TODO: Your code here
